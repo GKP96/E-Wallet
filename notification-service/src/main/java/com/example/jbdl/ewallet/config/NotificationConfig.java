@@ -78,7 +78,7 @@ public class NotificationConfig {
         javaMailSender.setPort(587);
         javaMailSender.setUsername("learningwithai2000@gmail.com");
         ////update pasword check in file ----- removing due security purpose
-        javaMailSender.setPassword("zpwhqnvqmcwozytr");
+        
 
 
         
