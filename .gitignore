@@ -44,3 +44,4 @@ Thumbs.db
 *.md
 !Readme.md
 !solution-design.md
+!fault-tolerance-testing-guide.md
